@@ -46,7 +46,7 @@ What to watch next is not just capability demos, but **operational proof**: perm
 - **Human-in-the-loop:** a workflow where a person reviews or approves key steps before execution.
 - **Latency:** how long the system takes to respond (lower is better for “usable” tools).
 
-## 6) Sources (primary first)
+## 6) Sources
 
 1. https://x.ai/
 2. https://devblogs.microsoft.com/foundry/microsoft-agent-framework-reaches-release-candidate/
