@@ -7,7 +7,7 @@ AI Weekly later 02-08 March 2026
 - **[Automotive/Manufacturing]** BMW deploys GenAI4Q (with Datagon AI) for vehicle-specific quality inspections at Regensburg plant; AI vision systems learn from production history to reduce defects in paint/assembly; Celonis AI integrates deeper into BMW/Mercedes/Toyota workflows for process visibility.
 - **[Policy/Hardware/Other]** Anthropic published labour market impact framework and highlighted compute advantages (diversified, lower-cost architecture); US government barred Anthropic tools over security, shifting federal use to OpenAI; major labs pledge self-funded power for AI data centres.
 ## 2) What this changes - plain language
-- ** Frontier models ** now handle hour-long professional tasks reliably with massive context and on-demand deep thinking, compressing engineering/design cycles but risking over-reliance on unverified outputs.
+- **Frontier models** now handle hour-long professional tasks reliably with massive context and on-demand deep thinking, compressing engineering/design cycles but risking over-reliance on unverified outputs.
 - **Agent proliferation shifts AI from chat to autonomous multi-step execution in factories and workflows** , enabling proactive defect detection and optimization without constant human input.
 - **Automotive AI moves to hyper-personalized, data-driven quality control and edge processing**, cutting waste in interiors/components while addressing real-time variability in EV/hybrid lines.
 ## 3) Deep dive Topic:
