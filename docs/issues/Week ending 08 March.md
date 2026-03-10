@@ -13,15 +13,15 @@ AI Weekly later 02-08 March 2026
 ## 3) Deep dive Topic:
 - **GPT-5.4's push toward reliable agentic workflows GPT-5.4's 1M-token context** + extreme reasoning mode allows multi-hour tasks with fewer hallucinations on documents/spreadsheets/code. It enables native computer use (e.g., tool chaining without heavy prompting). Risks include high inference costs for "extreme" mode and potential for subtle errors in safety-critical automotive simulations if not validated.
 ## 4) Automotive / Manufacturing (balanced mix) Factory operations
-- **AI-powered machine vision (e.g., BMW AIQX platform) scales defect detection across global plants, monitoring welds/studs in real time.
+- **AI-powered machine vision** (e.g., BMW AIQX platform) scales defect detection across global plants, monitoring welds/studs in real time.
 - Engineering & design
 - **GenAI4Q tailors inspections per vehicle config/history, accelerating interior parts validation and reducing rework.**
 - Supply chain & planning
 - **Celonis AI** connects production/logistics data for BMW/Mercedes, enabling predictive maintenance and faster response to disruptions.
 ## 5) Jargon, explained
-- **	1M-token context window: Model can process ~750,000–1,000,000 words at once (vs. earlier ~128k), enabling analysis of full design docs, specs, or long simulation logs without truncation.
-- **	Extreme reasoning mode: Model allocates extra compute/time for hard problems, improving accuracy on complex engineering tasks at higher cost/latency.
-- **	Multi-agent orchestration: Systems where specialized AI agents collaborate (e.g., one plans, another executes, a third verifies) on workflows like assembly optimization.
+- 	1M-token context window: Model can process ~750,000–1,000,000 words at once (vs. earlier ~128k), enabling analysis of full design docs, specs, or long simulation logs without truncation.
+- 	Extreme reasoning mode: Model allocates extra compute/time for hard problems, improving accuracy on complex engineering tasks at higher cost/latency.
+- 	Multi-agent orchestration: Systems where specialized AI agents collaborate (e.g., one plans, another executes, a third verifies) on workflows like assembly optimization.
 ## 6) Sources
 1.	https://openai.com/index/introducing-gpt-5-4/
 2.	https://radicaldatascience.wordpress.com/2026/03/06/ai-news-briefs-bulletin-board-for-march-2026
